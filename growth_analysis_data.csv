@@ -1,0 +1,101 @@
+User_ID,Signup_Date,Lead_Source,Plan_Type,Monthly_Active_Days,Feature_Usage_Score,Customer_Support_Tickets,Monthly_Revenue,Churn_Risk_Score
+USR_101,15/01/2025,LinkedIn,Free,12,45,2,0,0.65
+USR_102,18/01/2025,Google Search,Pro,22,88,0,49,0.12
+USR_103,01/02/2025,Referral,Enterprise,28,95,1,299,0.05
+USR_104,10/02/2025,LinkedIn,Free,4,12,5,0,0.88
+USR_105,14/02/2025,Direct,Pro,18,72,0,49,0.25
+USR_106,20/02/2025,Google Search,Free,8,30,1,0,0.55
+USR_107,01/03/2025,Referral,Pro,25,91,0,49,0.1
+USR_108,05/03/2025,LinkedIn,Enterprise,30,98,2,299,0.08
+USR_109,12/03/2025,Google Search,Free,2,5,8,0,0.95
+USR_110,15/03/2025,Direct,Pro,20,80,1,49,0.2
+USR_111,01/04/2025,LinkedIn,Free,15,50,0,0,0.4
+USR_112,05/04/2025,Referral,Enterprise,26,92,0,299,0.04
+USR_113,10/04/2025,Google Search,Free,5,20,4,0,0.75
+USR_114,12/04/2025,LinkedIn,Pro,19,78,1,49,0.22
+USR_115,18/04/2025,Direct,Free,10,35,2,0,0.6
+USR_116,01/05/2025,Referral,Pro,24,89,0,49,0.11
+USR_117,05/05/2025,Google Search,Enterprise,29,97,1,299,0.06
+USR_118,10/05/2025,LinkedIn,Free,3,10,6,0,0.92
+USR_119,15/05/2025,Direct,Pro,21,82,0,49,0.18
+USR_120,20/05/2025,Google Search,Free,7,25,3,0,0.7
+USR_121,01/06/2025,LinkedIn,Pro,23,85,1,49,0.15
+USR_122,05/06/2025,Referral,Enterprise,30,99,0,299,0.02
+USR_123,12/06/2025,Direct,Free,11,40,2,0,0.58
+USR_124,15/06/2025,Google Search,Pro,17,68,2,49,0.3
+USR_125,20/06/2025,LinkedIn,Free,6,18,4,0,0.8
+USR_126,20/01/2025,Direct,Enterprise,27,94,1,299,0.07
+USR_127,22/01/2025,Google Search,Pro,20,79,0,49,0.19
+USR_128,25/01/2025,Referral,Free,13,42,1,0,0.48
+USR_129,28/01/2025,LinkedIn,Pro,22,86,0,49,0.14
+USR_130,05/02/2025,Direct,Free,4,15,5,0,0.85
+USR_131,08/02/2025,Google Search,Enterprise,29,96,0,299,0.03
+USR_132,12/02/2025,Referral,Pro,18,70,2,49,0.28
+USR_133,15/02/2025,LinkedIn,Free,9,32,3,0,0.66
+USR_134,22/02/2025,Direct,Pro,21,83,1,49,0.17
+USR_135,25/02/2025,Google Search,Free,2,8,7,0,0.94
+USR_136,02/03/2025,Referral,Enterprise,28,93,1,299,0.09
+USR_137,06/03/2025,LinkedIn,Pro,19,77,0,49,0.21
+USR_138,10/03/2025,Direct,Free,14,48,1,0,0.44
+USR_139,14/03/2025,Google Search,Pro,24,90,0,49,0.1
+USR_140,18/03/2025,Referral,Free,5,22,4,0,0.72
+USR_141,02/04/2025,LinkedIn,Enterprise,30,100,0,299,0.01
+USR_142,06/04/2025,Direct,Pro,22,81,1,49,0.16
+USR_143,11/04/2025,Google Search,Free,10,38,2,0,0.59
+USR_144,15/04/2025,Referral,Pro,20,76,2,49,0.24
+USR_145,20/04/2025,LinkedIn,Free,3,11,6,0,0.9
+USR_146,02/05/2025,Direct,Enterprise,26,88,1,299,0.12
+USR_147,06/05/2025,Google Search,Pro,23,84,0,49,0.13
+USR_148,11/05/2025,Referral,Free,12,46,1,0,0.52
+USR_149,15/05/2025,LinkedIn,Pro,18,74,2,49,0.29
+USR_150,22/05/2025,Direct,Free,7,28,3,0,0.68
+USR_151,02/06/2025,Google Search,Enterprise,29,95,0,299,0.05
+USR_152,06/06/2025,Referral,Pro,21,80,1,49,0.18
+USR_153,11/06/2025,LinkedIn,Free,8,33,2,0,0.63
+USR_154,16/06/2025,Direct,Pro,24,87,0,49,0.12
+USR_155,22/06/2025,Google Search,Free,4,16,5,0,0.82
+USR_156,10/01/2025,Referral,Enterprise,28,92,2,299,0.1
+USR_157,14/01/2025,LinkedIn,Pro,19,75,1,49,0.23
+USR_158,19/01/2025,Direct,Free,15,52,0,0,0.38
+USR_159,24/01/2025,Google Search,Pro,22,83,0,49,0.15
+USR_160,30/01/2025,Referral,Free,5,20,4,0,0.76
+USR_161,02/02/2025,LinkedIn,Enterprise,30,97,1,299,0.06
+USR_162,06/02/2025,Direct,Pro,17,69,3,49,0.32
+USR_163,11/02/2025,Google Search,Free,11,41,2,0,0.56
+USR_164,16/02/2025,Referral,Pro,23,86,0,49,0.13
+USR_165,21/02/2025,LinkedIn,Free,2,7,8,0,0.96
+USR_166,03/03/2025,Direct,Enterprise,29,98,0,299,0.04
+USR_167,07/03/2025,Google Search,Pro,20,78,1,49,0.22
+USR_168,11/03/2025,Referral,Free,14,49,1,0,0.45
+USR_169,15/03/2025,LinkedIn,Pro,25,92,0,49,0.09
+USR_170,19/03/2025,Direct,Free,6,24,4,0,0.74
+USR_171,03/04/2025,Google Search,Enterprise,27,90,2,299,0.11
+USR_172,07/04/2025,Referral,Pro,22,82,1,49,0.17
+USR_173,12/04/2025,LinkedIn,Free,9,36,2,0,0.61
+USR_174,16/04/2025,Direct,Pro,18,71,2,49,0.27
+USR_175,21/04/2025,Google Search,Free,3,12,6,0,0.89
+USR_176,03/05/2025,Referral,Enterprise,28,94,1,299,0.08
+USR_177,07/05/2025,LinkedIn,Pro,21,80,0,49,0.19
+USR_178,12/05/2025,Direct,Free,13,44,1,0,0.5
+USR_179,16/05/2025,Google Search,Pro,24,88,0,49,0.11
+USR_180,23/05/2025,Referral,Free,7,26,3,0,0.69
+USR_181,03/06/2025,LinkedIn,Enterprise,30,99,0,299,0.02
+USR_182,07/06/2025,Direct,Pro,22,84,1,49,0.15
+USR_183,12/06/2025,Google Search,Free,10,39,2,0,0.57
+USR_184,17/06/2025,Referral,Pro,19,73,2,49,0.26
+USR_185,23/06/2025,LinkedIn,Free,4,18,5,0,0.81
+USR_186,11/01/2025,Direct,Enterprise,29,96,1,299,0.05
+USR_187,15/01/2025,Google Search,Pro,18,72,1,49,0.28
+USR_188,20/01/2025,Referral,Free,14,50,0,0,0.4
+USR_189,25/01/2025,LinkedIn,Pro,23,87,0,49,0.12
+USR_190,31/01/2025,Direct,Free,5,22,4,0,0.73
+USR_191,03/02/2025,Google Search,Enterprise,27,91,2,299,0.13
+USR_192,07/02/2025,Referral,Pro,20,77,1,49,0.21
+USR_193,12/02/2025,LinkedIn,Free,11,43,2,0,0.54
+USR_194,17/02/2025,Direct,Pro,24,89,0,49,0.1
+USR_195,22/02/2025,Google Search,Free,3,10,6,0,0.91
+USR_196,04/03/2025,Referral,Enterprise,30,98,0,299,0.03
+USR_197,08/03/2025,LinkedIn,Pro,19,74,1,49,0.25
+USR_198,12/03/2025,Direct,Free,12,47,1,0,0.49
+USR_199,16/03/2025,Google Search,Pro,22,82,0,49,0.16
+USR_200,20/03/2025,Referral,Free,6,25,3,0,0.71

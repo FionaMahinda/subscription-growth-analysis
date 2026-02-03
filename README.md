@@ -33,6 +33,7 @@ The dataset simulates subscription user behavior, including:
 ## Tools
 - PostgreSQL
 - SQL (CTEs, aggregations, segmentation logic)
+- Tableau (vizualisation)
 
 
 
